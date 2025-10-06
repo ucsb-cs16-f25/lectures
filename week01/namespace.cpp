@@ -6,7 +6,7 @@
 
 #include <iostream>
 using namespace std;
-// using namespace nsYoung;
+using namespace nsYoung;
 
 namespace nsYoung
 {
